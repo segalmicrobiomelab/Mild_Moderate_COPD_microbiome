@@ -1,4 +1,4 @@
-# Early_COPD_microbiome
+# Mild_Moderate_COPD_microbiome
 Data Analysis for Manuscript
 
 ![Analysis Schematic](https://github.com/segalmicrobiomelab/Early_COPD_microbiome/blob/main/schema.jpg)
