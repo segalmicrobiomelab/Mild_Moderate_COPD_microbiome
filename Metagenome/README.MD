@@ -5,7 +5,7 @@ The Required Input Data
 * MetaData (COPD_MAP_Final_git.txt): A spreadsheet with samples in rows and metadata in columns
 
 1. Open R
-1. Follow Code COPD.edgeR.Function.r 
+1. Follow Code COPD.edgeR_metag.Function.r 
   1. At the start of the code you will need to load packages required for analysis, for example:
 ```
 library(vegan)
