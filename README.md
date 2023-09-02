@@ -14,9 +14,7 @@ Data Analysis for Manuscript
 6. Save the .pkg file, double-click it to open, and follow the installation instructions.
 
 ## Running the Analysis
-* [UpStream Processing](https://github.com/segalmicrobiomelab/Early_COPD_microbiome/tree/main/Upstream)
 * [16S rRNA gene Sequencing](https://github.com/segalmicrobiomelab/Early_COPD_microbiome/tree/main/16S)
 * [Metagenome](https://github.com/segalmicrobiomelab/Early_COPD_microbiome/blob/main/Metagenome)
 * [Metatranscriptome](https://github.com/segalmicrobiomelab/Early_COPD_microbiome/blob/main/Metatranscriptome)
 * [Human RNA Transcriptome](https://github.com/segalmicrobiomelab/Early_COPD_microbiome/blob/main/Host_Transcriptome)
-* [Mouse RNA Transcriptome](https://github.com/segalmicrobiomelab/Early_COPD_microbiome/blob/main/Mouse)
