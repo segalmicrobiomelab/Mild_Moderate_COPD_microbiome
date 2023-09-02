@@ -1,12 +1,11 @@
 ## For the Human 16S rRNA Gene Sequencing
 The Required Input Data
-* Microbe Abundance (no-miss-table-dada2.qza):An abundance table with microbial species in rows and samples in columns.
-* Taxonomy Table (taxonomy.qza): Table of the taxonomic annotation
-* MetaData (BX_Sputum_convert.txt): A spreadsheet with samples in rows and metadata in columns
-* Tree File (rooted-tree_quality.qza): 
 
-1. Open R
-1. Follow Code Bronchiectasis.Neutrophil.Elastase.r 
+* Microbe Raw Abundance (16S_COPD_OTU_Table_BAL.txt):An abundance table with microbial species in rows and samples in columns.
+* MetaData (COPD_MAP_Final_git.txt): A spreadsheet with samples in rows and metadata in columns
+* Open R
+* Follow Code COPD.edgeR_16S.r
+* At the start of the code you will need to load packages required for analysis, for example:
   1. At the start of the code you will need to load packages required for analysis, for example:
 ```
 library(vegan)
