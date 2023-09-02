@@ -1,12 +1,11 @@
 *Metatranscriptome Analysis*
 ## Running the Analysis
 The Required Input Data
-* Microbe Raw Abundance (taxonomy_bacteria_metatranscriptome_G.txt):An abundance table with microbial species in rows and samples in columns.
-* Microbe Relative Abundance (relab_taxonomy_bacteria_metatranscriptome_S.txt):A relative abundance table with microbial species in rows and samples in columns.
-* MetaData (201211.RNA.lns.txt): A spreadsheet with samples in rows and metadata in columns
+* Microbe Raw Abundance (counts_taxa_metatranscriptome2.txt):An abundance table with microbial species in rows and samples in columns.
+* MetaData (COPD_MAP_Final_git.txt): A spreadsheet with samples in rows and metadata in columns
 
 1. Open R
-1. Follow Code Bronchiectasis.Neutrophil.Elastase.r 
+1. Follow Code COPD.edgeR_metatran.r 
   1. At the start of the code you will need to load packages required for analysis, for example:
 ```
 library(vegan)
